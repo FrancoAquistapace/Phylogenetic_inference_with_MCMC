@@ -52,51 +52,51 @@ graph [
   edge [
     source 0
     target 9
-    length NP.FLOAT64(0.08125688361035113)
+    length 0.08125688361035113
   ]
   edge [
     source 1
     target 8
-    length NP.FLOAT64(6.297175289709308E-10)
+    length 6.297175289709308E-10
   ]
   edge [
     source 2
     target 8
-    length NP.FLOAT64(4.62493855023412E-08)
+    length 4.62493855023412E-08
   ]
   edge [
     source 3
     target 7
-    length NP.FLOAT64(0.16089197978984823)
+    length 0.16089197978984823
   ]
   edge [
     source 4
     target 6
-    length NP.FLOAT64(0.008828595188175841)
+    length 0.008828595188175841
   ]
   edge [
     source 5
     target 6
-    length NP.FLOAT64(0.47611918582331947)
+    length 0.47611918582331947
   ]
   edge [
     source 6
     target 7
-    length NP.FLOAT64(2.311726321579613E-06)
+    length 2.311726321579613E-06
   ]
   edge [
     source 7
     target 9
-    length NP.FLOAT64(0.04637645712974826)
+    length 0.04637645712974826
   ]
   edge [
     source 8
     target 10
-    length NP.FLOAT64(0.040628441805175566)
+    length 0.040628441805175566
   ]
   edge [
     source 9
     target 10
-    length NP.FLOAT64(0.03317875984353408)
+    length 0.03317875984353408
   ]
 ]
