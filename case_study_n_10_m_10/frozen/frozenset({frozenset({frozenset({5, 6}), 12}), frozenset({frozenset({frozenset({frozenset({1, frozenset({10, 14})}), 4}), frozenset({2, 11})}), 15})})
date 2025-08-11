@@ -1,0 +1,176 @@
+graph [
+  node [
+    id 0
+    label "1"
+    sequence "TTCGGAAGTC"
+  ]
+  node [
+    id 1
+    label "2"
+    sequence "TCCGAAAGTG"
+  ]
+  node [
+    id 2
+    label "4"
+    sequence "ACCGAGATTG"
+  ]
+  node [
+    id 3
+    label "5"
+    sequence "ATGGCGAGTG"
+  ]
+  node [
+    id 4
+    label "6"
+    sequence "ATGGCGAGTT"
+  ]
+  node [
+    id 5
+    label "10"
+    sequence "AACGTAGCTT"
+  ]
+  node [
+    id 6
+    label "11"
+    sequence "AAGATAGCTT"
+  ]
+  node [
+    id 7
+    label "12"
+  ]
+  node [
+    id 8
+    label "14"
+    sequence "ATCACAGCTT"
+  ]
+  node [
+    id 9
+    label "15"
+  ]
+  node [
+    id 10
+    label "990"
+  ]
+  node [
+    id 11
+    label "992"
+  ]
+  node [
+    id 12
+    label "1002"
+  ]
+  node [
+    id 13
+    label "1003"
+  ]
+  node [
+    id 14
+    label "1014"
+  ]
+  node [
+    id 15
+    label "1017"
+  ]
+  node [
+    id 16
+    label "1018"
+  ]
+  node [
+    id 17
+    label "1019"
+  ]
+  node [
+    id 18
+    label "0"
+  ]
+  edge [
+    source 0
+    target 16
+    length 0.012900996935528427
+  ]
+  edge [
+    source 1
+    target 15
+    length 0.23803407009518304
+  ]
+  edge [
+    source 2
+    target 14
+    length 0.0439729822722326
+  ]
+  edge [
+    source 3
+    target 10
+    length 0.17968578690751716
+  ]
+  edge [
+    source 4
+    target 10
+    length 0.0040247820709867835
+  ]
+  edge [
+    source 5
+    target 13
+    length 0.00019177710853573226
+  ]
+  edge [
+    source 6
+    target 15
+    length 0.6307616044113895
+  ]
+  edge [
+    source 7
+    target 12
+    length 0.1055902608137323
+  ]
+  edge [
+    source 8
+    target 13
+    length 0.018325247964103664
+  ]
+  edge [
+    source 9
+    target 11
+    length 0.0037524602367843703
+  ]
+  edge [
+    source 10
+    target 12
+    length 6.181896453534229E-06
+  ]
+  edge [
+    source 11
+    target 17
+    length 0.001803485960541221
+  ]
+  edge [
+    source 11
+    target 18
+    length 0.15120635771874258
+  ]
+  edge [
+    source 12
+    target 18
+    length 0.3842290350284254
+  ]
+  edge [
+    source 13
+    target 16
+    length 0.5092906273337602
+  ]
+  edge [
+    source 14
+    target 16
+    length 0.0031060713403375565
+  ]
+  edge [
+    source 14
+    target 17
+    length 0.07830866783846949
+  ]
+  edge [
+    source 15
+    target 17
+    length 0.00825072519306235
+  ]
+]
