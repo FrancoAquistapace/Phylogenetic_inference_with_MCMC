@@ -1,0 +1,102 @@
+graph [
+  node [
+    id 0
+    label "1"
+    sequence "AGGGAC"
+  ]
+  node [
+    id 1
+    label "2"
+    sequence "AGGTAT"
+  ]
+  node [
+    id 2
+    label "4"
+    sequence "AGATAT"
+  ]
+  node [
+    id 3
+    label "5"
+    sequence "AGGTGT"
+  ]
+  node [
+    id 4
+    label "7"
+    sequence "AGGAAT"
+  ]
+  node [
+    id 5
+    label "8"
+    sequence "AGGAAT"
+  ]
+  node [
+    id 6
+    label "3263"
+  ]
+  node [
+    id 7
+    label "3267"
+  ]
+  node [
+    id 8
+    label "3268"
+  ]
+  node [
+    id 9
+    label "3271"
+  ]
+  node [
+    id 10
+    label "0"
+  ]
+  edge [
+    source 0
+    target 8
+    length 0.26528309251399124
+  ]
+  edge [
+    source 1
+    target 6
+    length 0.0612295713104976
+  ]
+  edge [
+    source 2
+    target 7
+    length 0.1513595840953921
+  ]
+  edge [
+    source 3
+    target 8
+    length 0.0022317593842475824
+  ]
+  edge [
+    source 4
+    target 6
+    length 0.0019390457671082059
+  ]
+  edge [
+    source 5
+    target 7
+    length 0.17514679123284838
+  ]
+  edge [
+    source 6
+    target 10
+    length 9.496402694041704E-05
+  ]
+  edge [
+    source 7
+    target 9
+    length 4.449295555667643E-05
+  ]
+  edge [
+    source 8
+    target 9
+    length 3.3982947607208024E-06
+  ]
+  edge [
+    source 9
+    target 10
+    length 9.496402694041704E-05
+  ]
+]

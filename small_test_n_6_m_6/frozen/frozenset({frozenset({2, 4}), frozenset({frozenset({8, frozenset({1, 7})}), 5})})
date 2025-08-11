@@ -31,19 +31,19 @@ graph [
   ]
   node [
     id 6
-    label "615"
+    label "488"
   ]
   node [
     id 7
-    label "618"
+    label "490"
   ]
   node [
     id 8
-    label "622"
+    label "493"
   ]
   node [
     id 9
-    label "623"
+    label "507"
   ]
   node [
     id 10
@@ -51,52 +51,52 @@ graph [
   ]
   edge [
     source 0
-    target 9
-    length 0.04712830059372341
+    target 6
+    length 0.29132178339999965
   ]
   edge [
     source 1
-    target 6
-    length 4.354913473752373E-06
+    target 8
+    length 1.9464251563732632E-07
   ]
   edge [
     source 2
-    target 6
-    length 0.0024217252887980545
+    target 8
+    length 7.90852841287337E-05
   ]
   edge [
     source 3
-    target 7
-    length 0.030250968489007376
+    target 9
+    length 0.01744185037212469
   ]
   edge [
     source 4
-    target 9
-    length 0.0018095360793492765
+    target 6
+    length 0.003055311223257715
   ]
   edge [
     source 5
-    target 8
-    length 0.17287408034290944
+    target 7
+    length 0.18126381867144337
   ]
   edge [
     source 6
-    target 10
-    length 0.010491707302932324
+    target 7
+    length 1.137715224754269E-06
   ]
   edge [
     source 7
-    target 10
-    length 0.0016667075802021818
-  ]
-  edge [
-    source 7
-    target 8
-    length 0.00011320915882449406
+    target 9
+    length 0.010598994371013795
   ]
   edge [
     source 8
-    target 9
-    length 0.018653166326069247
+    target 10
+    length 0.07728169546022523
+  ]
+  edge [
+    source 9
+    target 10
+    length 0.024575282219930987
   ]
 ]
